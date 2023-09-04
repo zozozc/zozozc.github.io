@@ -19,11 +19,11 @@ locale                   : "ko-KR"
 title                    : "김현래"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "김영현\nKim Young Hyeon"
-description              : "약간 맛이 간 사람"
+name                     : "김영현 Kim Young Hyeon"
+description              : "기술 블로그"
 url                      : "https://zozozc.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/blog"
+repository               : "zozozc/zozozc.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **맛이 간** person."
-  location         : "Somewhere"
+  bio              : "글쓰기"
+  location         : "Gumi-si, Gyeongsangbuk-do, Republic of Korea"
   email            :
   links:
     - label: "Email"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/zozozc"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/zozozc
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
